@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <title>自适应的占位符效果</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div style="width:400px;height:20px;margin:100px auto">
+        <form>
+            <input required='' type='text'	value='121212121'>
+            <label alt='yy你是不是傻' placeholder='是不是'></label>
+			 <input required='' type='text'>
+        </form>
+    </div>
+<div class="footer-banner" style="width:728px; margin:200px auto 0"></div>
+</body>
+</html>

@@ -1,0 +1,8 @@
+title: Test
+description: 这是一个测试项目
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
